@@ -13,7 +13,7 @@ Author: c0rruptedb1t
 
 ## Disclaimer
 
-This report documents a penetration test on the intentionally vulnerable machine Bob_v1.0.1 authored by c0rruptedb1t, available at www.vulnhub.com. Please be aware that the test has been done for educational purposes and as a means to practice the knowledge gained from Jr Penetration Tester learning pathway at TryHackMe.
+This report documents a penetration test on the intentionally vulnerable machine Bob_v1.0.1 authored by c0rruptedb1t, available at www.vulnhub.com. Please be aware that the test has been done to solidify the knowledge gained from Jr Penetration Tester learning pathway at TryHackMe.
 
 
 
